@@ -1,0 +1,83 @@
+1670107154861	geckodriver	INFO	Listening on 127.0.0.1:65220
+1670107157966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofilen4Srqq"
+1670107158174	Marionette	INFO	Marionette enabled
+1670107158177	Marionette	INFO	Listening on port 65231
+Read port: 65231
+WebDriver BiDi listening on ws://127.0.0.1:65221
+1670107158239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofilen4Srqq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65221/devtools/browser/9fa02610-0807-4042-8ad5-d7f6431069d3
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 8958: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17474: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17487: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7253 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+1670107162613	Marionette	INFO	Stopped listening on port 65231
+1670107172751	geckodriver	INFO	Listening on 127.0.0.1:65333
+1670107175813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofileFrv3yI"
+1670107175999	Marionette	INFO	Marionette enabled
+1670107176001	Marionette	INFO	Listening on port 65344
+WebDriver BiDi listening on ws://127.0.0.1:65334
+Read port: 65344
+1670107176116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofileFrv3yI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65334/devtools/browser/17b7f658-e999-41e2-8490-38c5688f7c50
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 8958: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17474: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17487: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1092 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+1670107180454	Marionette	INFO	Stopped listening on port 65344
+1670107287905	geckodriver	INFO	Listening on 127.0.0.1:49191
+1670107290971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofilet5iB2o"
+1670107291157	Marionette	INFO	Marionette enabled
+1670107291160	Marionette	INFO	Listening on port 49202
+Read port: 49202
+WebDriver BiDi listening on ws://127.0.0.1:49192
+1670107291229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofilet5iB2o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49192/devtools/browser/ef8f3235-a0a7-4566-ac4a-65d6b0f41271
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 8958: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17474: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17487: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2215 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+1670107295793	Marionette	INFO	Stopped listening on port 49202
+1670107475608	geckodriver	INFO	Listening on 127.0.0.1:49781
+1670107478685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofileTORoxC"
+1670107478873	Marionette	INFO	Marionette enabled
+1670107478875	Marionette	INFO	Listening on port 49796
+WebDriver BiDi listening on ws://127.0.0.1:49782
+Read port: 49796
+1670107478991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofileTORoxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49782/devtools/browser/d5d6d6ce-73f8-4c35-8f8f-137a4b9b4717
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 8958: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17474: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17487: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+1670107483852	Marionette	INFO	Stopped listening on port 49796
+1670110354829	geckodriver	INFO	Listening on 127.0.0.1:52014
+1670110357902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofileGyOmXK"
+1670110358094	Marionette	INFO	Marionette enabled
+1670110358096	Marionette	INFO	Listening on port 52026
+Read port: 52026
+WebDriver BiDi listening on ws://127.0.0.1:52015
+1670110358168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\evgen\\AppData\\Local\\Temp\\rust_mozprofileGyOmXK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52015/devtools/browser/f1aa247d-3eaf-47b0-9c9c-c0e59fd01184
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 8958: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17474: unreachable code after return statement
+JavaScript warning: https://st.fotocdn.net/src/js/fs.js/__v1664547975.fs.js, line 17487: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://fotostrana.ru."
+1670110363014	Marionette	INFO	Stopped listening on port 52026
+[Parent 14300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
